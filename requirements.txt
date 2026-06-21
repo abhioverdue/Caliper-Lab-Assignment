@@ -1,0 +1,7 @@
+openai>=1.0.0
+requests
+beautifulsoup4
+tqdm
+numpy
+pandas
+tiktoken

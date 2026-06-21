@@ -1,0 +1,12 @@
+{
+  "total_samples": 100,
+  "accepted": 100,
+  "rejected": 0,
+  "rejection_rate": 0.0,
+  "avg_score": 2.19,
+  "difficulty_distribution": {
+    "easy": 42,
+    "medium": 29,
+    "hard": 29
+  }
+}
