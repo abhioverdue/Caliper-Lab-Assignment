@@ -42,3 +42,4 @@ We evaluate the pipeline on:
    - comparison with gold QA dataset
 
 This demonstrates that structured QA generation + verification significantly improves dataset reliability over naive RAG baselines.# Caliper-Lab-Assignment
+# Caliper-Lab-Assignment
